@@ -23,7 +23,7 @@
       "use_native": false,
       "session_store_path": "./whatsapp-session",
       "allow_from": [
-        "923266694795"
+        "(your phone number here)"
       ],
       "reasoning_channel_id": ""
     },
